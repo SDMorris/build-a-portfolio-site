@@ -1,0 +1,12 @@
+.code-picture {
+  width: 100%;
+  position: relative;
+  background-image: url("http://www.nusphere.com/graphics/phped_56/css_preview_tab.png");
+  background-size: cover;
+  height: 300px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
